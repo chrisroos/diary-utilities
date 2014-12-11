@@ -12,6 +12,7 @@ This repo contains some scripts that I'm playing with to help me explore the dat
 
 ## Useful commands
 
+    # This assumes you've run `ruby update-timestamps.rb` first
     # Display all last week's work entries in TextMate
     $ find . \
       -name "*-work.md" \
